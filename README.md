@@ -11,6 +11,8 @@ A simple blog application with functionality to create posts, comment on posts, 
 ## Prerequisites
 - [Node.js](https://nodejs.org/en/download/) installed on your machine.
 - [MongoDB](https://www.mongodb.com/try/download/community) for the database.
+- Postman for testing the API.
+- MongoDB Compass for managing and visualizing the database.
   
 Ensure MongoDB is running on your local machine or cloud (if using MongoDB Atlas).
 
